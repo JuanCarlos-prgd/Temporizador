@@ -30,7 +30,8 @@ Incluye animaciones de fuego y humo al momento del despegue, además de un siste
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo
+
 El proyecto busca combinar funcionalidad técnica con experiencia visual atractiva, mostrando habilidades en:
 
 Programación frontend (DOM, eventos, intervalos).
