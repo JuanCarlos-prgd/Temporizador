@@ -54,7 +54,8 @@ Y se activa la animación del cohete con fuego y humo.
 
 ---
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
+
 HTML5 → estructura semántica de la página.
 
 CSS3 → estilos, gradientes, animaciones y diseño responsivo.
