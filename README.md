@@ -30,6 +30,19 @@ Incluye animaciones de fuego y humo al momento del despegue, además de un siste
 
 ---
 
+🎯 Objetivo
+El proyecto busca combinar funcionalidad técnica con experiencia visual atractiva, mostrando habilidades en:
+
+Programación frontend (DOM, eventos, intervalos).
+
+Diseño responsivo y accesible.
+
+Animaciones con CSS y transiciones dinámicas.
+
+Integración de lógica de validación y retroalimentación al usuario.
+
+---
+
 ## 🖥️ Vista previa
 
 Al iniciar la cuenta regresiva, el número cambia de color según el tiempo restante.  
@@ -37,6 +50,15 @@ Cuando llega a **0 segundos**, aparece el mensaje: "🚀 ¡Cohete lanzado con é
 
 
 Y se activa la animación del cohete con fuego y humo.
+
+---
+
+🛠️ Tecnologías utilizadas
+HTML5 → estructura semántica de la página.
+
+CSS3 → estilos, gradientes, animaciones y diseño responsivo.
+
+JavaScript (ES6) → lógica de la cuenta regresiva, validaciones y control de animaciones.
 
 ---
 
