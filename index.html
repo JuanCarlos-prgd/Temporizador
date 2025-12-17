@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Cuenta regresiva - Lanzamiento de cohete</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 Lanzamiento de Cohete</h1>
+
+    <div class="timer">
+      Tiempo restante: <span id="countdown">60</span> s
+    </div>
+
+    <!-- Casilla editable -->
+    <label for="segundos">Configurar segundos (máx. 60):</label>
+    <input type="number" id="segundos" min="1" max="60" value="60">
+
+    <button id="btn-iniciar">Iniciar Cuenta Regresiva</button>
+    <p id="mensaje-final"></p>
+
+    <!-- Cohete y animación -->
+    <div class="cohete" id="cohete">
+      🚀
+      <div class="fuego" id="fuego"></div>
+      <div class="humo" id="humo"></div>
+    </div>
+  </div>
+
+      <footer>
+        <h3>Autor: Juan Carrillo</h3>
+
+        <div class="Link-Container"></div>  
+          <a href="https://github.com/JuanCarlos-prgd" target="_blank">
+            <img
+              src="footr/github (1).svg"
+              alt="Link to my Github" 
+              class="github-logo"></a>
+
+      </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
