@@ -135,7 +135,7 @@ button:hover {
 
 /* ====== Footer ====== */
 footer {
-  background: rgba(0,0,0,0.7);
+  background: rgba(255, 255, 255, 0.233);
   color: #f1f5f9;
   text-align: center;
   padding: 15px;
@@ -159,7 +159,7 @@ footer h3 {
 
 .github-logo:hover {
   transform: rotate(10deg) scale(1.2);
-  filter: drop-shadow(0 0 8px #22c55e);
+  filter: drop-shadow(0 0 8px #db0909);
 }
 
 /* ====== Responsive ====== */
