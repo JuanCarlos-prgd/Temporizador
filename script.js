@@ -45,7 +45,7 @@ function iniciarCuenta() {
   clearInterval(intervalo);
 
   intervalo = setInterval(() => {
-    tiempo--;
+    tiempo-=5;
     countdownEl.textContent = tiempo;
     actualizarColor();
 
